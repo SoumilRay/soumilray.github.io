@@ -26,11 +26,11 @@ author:
   avatar           : "hiking.jpeg"
   name             : "Soumil Ray"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Philadelphia, PA"
   employer         : "University of Pennsylvania"
-  uri              : "soumilray.github.io" # e.g. "soumilray.github.io"
-  email            : "none@example.org" 
+  uri              : #"soumilray.github.io" 
+  email            : #"none@example.org" 
 
   # Academic websites
   academia         : # URL
