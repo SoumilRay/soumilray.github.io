@@ -1,0 +1,2 @@
+ensure images are of same size
+add education section
