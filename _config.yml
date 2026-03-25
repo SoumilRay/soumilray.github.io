@@ -27,9 +27,9 @@ author:
   name             : "Soumil Ray"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "Philadelphia, PA"
+  employer         : "University of Pennsylvania"
+  uri              : "soumilray.github.io" # e.g. "soumilray.github.io"
   email            : "none@example.org" 
 
   # Academic websites
