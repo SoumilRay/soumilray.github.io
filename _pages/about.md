@@ -1,13 +1,32 @@
 ---
 permalink: /
-title: #"Hi there!"
+title: "Soumil Ray"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Experience
+## 👋 About Me
+
+I’m a Computer Science graduate student at the University of Pennsylvania, with interests in **machine learning, systems, and applied AI**.
+
+Previously, I completed my undergraduate studies at BITS Pilani (Hyderabad), where I was awarded a merit scholarship for being in the top 3% of my class. I enjoy building scalable ML systems, experimenting with novel architectures, and working on real-world data problems.
+
+---
+
+## 🎓 Education
+
+**University of Pennsylvania** — MSE in Computer and Information Science  
+*Aug 2025 – May 2027 · Philadelphia, PA*
+
+**BITS Pilani** — B.E. Computer Science (GPA: 9.3/10)  
+*Aug 2021 – May 2025 · Hyderabad, India*  
+- Undergraduate Merit Scholarship (Top 3%)
+
+---
+
+## 💼 Experience
 
 <div class="experience-card">
   <img src="/images/amex.png" alt="American Express" class="experience-logo">
@@ -15,9 +34,9 @@ redirect_from:
     <h3>Data Science Intern — American Express</h3>
     <p><em>July 2024 – Dec 2024 · Bengaluru, India</em></p>
     <ul>
-      <li>Developed and optimized a BigQuery data-processing pipeline to support migration from on-premise compute clusters to Google Cloud Platform.</li>
-      <li>Implemented multithreaded preprocessing, reducing preprocessing time by 50%.</li>
-      <li>Benchmarked Tree Parzen Estimator against a Gaussian Process–based tuning framework for XGBoost, showing improved performance and up to 10% faster convergence.</li>
+      <li>Developed and optimized a BigQuery pipeline for migration to Google Cloud Platform.</li>
+      <li>Reduced preprocessing time by 50% using multithreading.</li>
+      <li>Improved XGBoost tuning efficiency with Tree Parzen Estimator (10% faster convergence).</li>
     </ul>
   </div>
 </div>
@@ -28,8 +47,8 @@ redirect_from:
     <h3>C Programming Teaching Assistant — BITS Pilani</h3>
     <p><em>Jan 2024 – May 2024 · Hyderabad, India</em></p>
     <ul>
-      <li>Guided 200+ students across 4 lab sections in C programming.</li>
-      <li>Taught topics including conditionals, loops, data structures, pointers, and file handling.</li>
+      <li>Mentored 200+ students across 4 lab sections.</li>
+      <li>Taught core systems concepts: pointers, memory, data structures.</li>
     </ul>
   </div>
 </div>
@@ -40,14 +59,62 @@ redirect_from:
     <h3>Summer Intern — Indian Institute of Remote Sensing, ISRO</h3>
     <p><em>May 2023 – July 2023 · Dehradun, India</em></p>
     <ul>
-      <li>Performed spatiotemporal flood analysis in the Assam Valley using Google Earth Engine and JavaScript.</li>
-      <li>Preprocessed SAR data, applied filtering, and used thresholding to delineate flooded areas across five monsoon seasons.</li>
+      <li>Performed flood analysis using Google Earth Engine.</li>
+      <li>Processed SAR data to detect flooding across multiple monsoon seasons.</li>
     </ul>
   </div>
 </div>
 
-## Projects
+---
 
-- **Agentic AI for Dev Environment Setup** — Built a multi-agent system using LangGraph to create folders, virtual environments, and manage package installation for new projects. :contentReference[oaicite:3]{index=3}
-- **Machine Learning for Malware Analysis** — Labeled 200k+ samples, converted APKs and PE files into model-ready formats, and built CNN-, transformer-, and GNN-based malware classifiers. :contentReference[oaicite:4]{index=4}
-- **Brain Inspired Deep Learning** — Designed brain-inspired CNNs, tuned ephaptic regularization with Optuna, and evaluated adversarial robustness under FGSM and PGD attacks. :contentReference[oaicite:5]{index=5}
+## 🚀 Projects
+
+### Agentic AI for Dev Environment Setup
+- Built a multi-agent system using **LangGraph** to automate project setup
+- Agents handled environment creation, dependency resolution, and repo analysis
+
+### Machine Learning for Malware Analysis
+- Processed **200k+ samples** across APK and PE formats
+- Built CNN, Transformer, and GNN models  
+- Achieved:
+  - **95% accuracy (image-based)**
+  - **80% binary classification (GNN)**
+
+### Brain-Inspired Deep Learning
+- Designed CNNs with **ephaptic regularization**
+- Tuned models with Optuna
+- Evaluated robustness under **FGSM & PGD attacks**
+
+---
+
+## 📄 Publications
+
+- *Malware Analysis Using Transformer Based Models: An Empirical Study*  
+  Co-author | DOI available
+
+---
+
+## 🛠 Technical Skills
+
+**Languages:** Python, C, C++, Java  
+**ML & Systems:** PyTorch, TensorFlow, GNNs, Transformers  
+**Tools:** GCP, BigQuery, SQL, HPC/GPU clusters  
+**Frameworks:** LangChain, LangGraph  
+**Other:** Git, GDB debugging  
+
+---
+
+## 🌐 Links
+
+- [GitHub](#)
+- [LinkedIn](#)
+- [Resume](#)
+
+---
+
+## ⚡ Interests
+
+- Machine Learning Systems  
+- Agentic AI  
+- Distributed Computing  
+- Security & Malware Analysis  
