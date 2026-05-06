@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## 👋 About Me
-
 I’m a Computer Science graduate student at the University of Pennsylvania, with interests in **machine learning, systems, and applied AI**.
 
 Previously, I completed my undergraduate studies at BITS Pilani (Hyderabad), where I was awarded a merit scholarship for being in the top 3% of my class. I enjoy building scalable ML systems, experimenting with novel architectures, and working on real-world data problems.
